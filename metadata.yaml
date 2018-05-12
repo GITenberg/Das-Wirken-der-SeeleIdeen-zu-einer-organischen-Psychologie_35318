@@ -1,0 +1,28 @@
+_repo: Das-Wirken-der-SeeleIdeen-zu-einer-organischen-Psychologie_35318
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eisler, Rudolf
+    birthdate: 1873
+    deathdate: 1926
+    gutenberg_agent_id: '37595'
+    url: http://www.gutenberg.org/2009/agents/37595
+    wikipedia: http://de.wikipedia.org/wiki/Rudolf_Eisler
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2011-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35318'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychology'
+- !lcc 'BF'
+title: 'Das Wirken der Seele: Ideen zu einer organischen Psychologie'
+url: http://www.gutenberg.org/ebooks/35318
